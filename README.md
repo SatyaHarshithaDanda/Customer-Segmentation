@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation using K-Means Clustering (from Scratch)
+# 🛍️ Customer Segmentation using K-Means Clustering
 
 This project demonstrates how to implement the **K-Means clustering algorithm from scratch** in Python and apply it to **Mall Customer Data** for customer segmentation. The goal is to group customers based on similar behavior or characteristics to better understand and target them.
 
